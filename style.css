@@ -1,0 +1,98 @@
+.content {
+    background-color: white;
+    width: 400px;
+    padding: 10px;
+    border: 2px solid skyblue;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#table_head {
+    background-color: #ffed85;
+    border: 2px solid black;
+    color: red;
+    padding: 10px;
+    font-size: 24px;
+}
+
+table {
+    width: 100%;
+    border-color: white;
+    border: 1px solid ;
+    background-color: white;
+    padding: 5px;
+    border-collapse: separate;
+}
+
+td {
+    padding: 10px;
+    border: 2px solid;
+    text-align: left;
+    background-color: skyblue;
+    font-weight: bold;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+}
+
+
+button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #ddd;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+input[type="radio"], input[type="checkbox"]{
+    accent-color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
